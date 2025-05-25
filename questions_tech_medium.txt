@@ -1,0 +1,30 @@
+Which protocol is used to send emails?
+SMTP
+HTTP
+FTP
+IMAP
+A
+What does HTML stand for?
+HyperText Markup Language
+HighText Machine Language
+HyperTool Markup Language
+HighText Main Language
+A
+Which device translates digital signals into analog for phone lines?
+Modem
+Router
+Repeater
+Switch
+A
+Which part of the computer is considered the brain?
+RAM
+CPU
+Hard Drive
+GPU
+B
+Which programming language is used for Android development?
+Java
+Python
+Swift
+C++
+A
